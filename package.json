@@ -63,6 +63,6 @@
   "repository": "https://github.com/OWASP/NodejsGoat",
   "license": "Apache 2.0",
   "overrides": {
-    "set-value": "2.0.1"
+    "proxy-addr": "2.0.8"
   }
 }
